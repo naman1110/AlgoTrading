@@ -2,9 +2,13 @@
 Algorithmic Trading README
 
 # Table of Contents
+
 Introduction
+
 What Is Algorithmic Trading?
+
 How Is Algorithmic Trading Done?
+
 Trading Strategy
 
 # Introduction
