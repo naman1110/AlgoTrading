@@ -3,13 +3,10 @@ Algorithmic Trading README
 
 # Table of Contents
 
-Introduction
-
-What Is Algorithmic Trading?
-
-How Is Algorithmic Trading Done?
-
-Trading Strategy
+1. [Introduction](#introduction)
+2. [What Is Algorithmic Trading?](#what-is-algorithmic-trading)
+3. [How Is Algorithmic Trading Done?](#how-is-algorithmic-trading-done)
+4. [Trading Strategy](#trading-strategy)
 
 # Introduction
 This repository contains code and resources for algorithmic trading, a strategy used to automate trading decisions based on predefined rules and criteria. This README provides an overview of algorithmic trading, how it works, and details about the included trading strategy.
